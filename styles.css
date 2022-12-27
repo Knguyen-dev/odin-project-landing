@@ -166,3 +166,12 @@ body {
   border-radius: 6px;
   padding: 0.5em 2em;
 }
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  padding: 1.5em 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
